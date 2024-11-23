@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HELLO+EVERYONE;WELCOME+TO+MY+GITHUB+PROFILE)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+Github+Profile!;Hi%2C+everyone%2C+I'm+Jeysi" alt="Typing SVG" />
-  </a>
-</div>
+
 
 #### 🚀 Thank you for visiting my GitHub profile. I'm excited to share my projects and collaborations with you. Feel free to explore, contribute, and connect with me. Let's build something amazing together!
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" width="180">
