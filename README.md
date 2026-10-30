@@ -40,8 +40,9 @@ I'm an **Information Technology student** at the College of our Lady of Mercy in
 ## `~/stats`
 
 <p align="center">
-  <img height="170" alt="JMacopio's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JMacopio&show_icons=true&hide_border=true&theme=dark&bg_color=05080a&title_color=39ff88&icon_color=22d3ee&text_color=d7efe3" />
-  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMacopio&layout=compact&hide_border=true&theme=dark&bg_color=05080a&title_color=39ff88&text_color=d7efe3" />
+  <img src="https://img.shields.io/github/followers/JMacopio?style=for-the-badge&logo=github&logoColor=39ff88&color=39ff88&labelColor=05080a" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/public%20repos-29-22d3ee?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=05080a" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/main%20languages-C%23%20%C2%B7%20C%2B%2B%20%C2%B7%20JavaScript-ffb020?style=for-the-badge&labelColor=05080a" alt="Main languages" />
 </p>
 
 ## `~/contact`
