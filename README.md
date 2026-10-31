@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=39FF88&center=true&vCenter=true&width=640&height=60&lines=$+whoami;Jorge+Matthew+Acopio;IT+Student+%C2%B7+Aspiring+Cybersecurity+%26+Software+Developer;Currently+building+Anatomia+3D)](https://portfolio-xi-lovat-39.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=39FF88&center=true&vCenter=true&width=640&height=60&lines=$+whoami;Jorge+Matthew+Acopio;IT+Student+%C2%B7+Aspiring+Cybersecurity+%26+Software+Developer)](https://portfolio-xi-lovat-39.vercel.app)
 
 [![Portfolio](https://img.shields.io/badge/portfolio-portfolio--xi--lovat--39.vercel.app-39ff88?style=for-the-badge&labelColor=05080a)](https://portfolio-xi-lovat-39.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Matthew_Acopio-22d3ee?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=05080a)](https://www.linkedin.com/in/jorge-matthew-acopio-73659722b)
